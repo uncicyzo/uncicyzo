@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm uncicyzo! 👋
 
-<!--
-**uncicyzo/uncicyzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Indonesia.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- probably overthinking a database schema right now
+- reading docs more than books lately
+- learning TailwindCSS the slow way
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uncicyzo&hide_border=true&theme=dark" alt="Commit streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uncicyzo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="uncicyzo GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TailwindCSS-bd93f9?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Next.js-bd93f9?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-bd93f9?style=for-the-badge&logoColor=white" alt="TypeScript" />
+</p>
+
+</details>
+
+<sub>Drop a star if any of my repos helps you.</sub>
